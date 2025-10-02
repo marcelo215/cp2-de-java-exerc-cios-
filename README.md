@@ -28,7 +28,8 @@ Sistema de gerenciamento de inventário desenvolvido em Java para controle de di
 
 ✅ Relatórios formatados
 
-🏗️ Estrutura do Projeto
+ Estrutura do Projeto
+ 
 text
 Inventario/
 ├── Produto.java          # Classe principal do produto
@@ -94,7 +95,8 @@ Preenchimento dinâmico do array
 
 Exibição com loop for-each
 
-🖥️ Como Executar
+ Como Executar
+ 
 Compilação:
 bash
 javac Produto.java ProductTester.java
