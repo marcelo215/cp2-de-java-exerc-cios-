@@ -1,4 +1,4 @@
-👨‍🎓 Informações do Aluno
+Informações do Aluno
 Nome: Marcelo Affonso Fonseca
 
 RM: 559790
@@ -13,6 +13,7 @@ Projeto: CheckPoint 2 (CP2) - Sistema de Inventário
 Sistema de gerenciamento de inventário desenvolvido em Java para controle de diversos tipos de produtos (CDs, DVDs, softwares, eletrônicos, etc.). O programa permite cadastrar, visualizar e gerenciar produtos com funcionalidades completas de controle de estoque.
 
 🚀 Funcionalidades
+
 ✅ Cadastro de produtos com dados completos
 
 ✅ Controle de estoque e valores monetários
